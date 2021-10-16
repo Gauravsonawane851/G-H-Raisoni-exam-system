@@ -1,9 +1,0 @@
-**Database Name: oesm**
-
-**Developed by Gaurav Sonawane**
-
-
-**Admin Login Details**
-
-Email    : d@d.com
-Password : asd
